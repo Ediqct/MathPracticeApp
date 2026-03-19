@@ -20,7 +20,7 @@ python main.py
 
 Example Output
 Choose a difficulty! (easy, medium, hard)
-> easy
+"easy"
 
 12 + 7?
 Your Answer: 19
