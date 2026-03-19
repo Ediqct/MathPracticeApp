@@ -18,7 +18,8 @@ python main.py
 
 
 
-Example Output
+Example Output:
+
 Choose a difficulty! (easy, medium, hard)
 
 "easy"
