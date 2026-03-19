@@ -19,6 +19,7 @@ python main.py
 
 
 
+
 Example Output:
 
 Choose a difficulty! (easy, medium, hard)
@@ -30,6 +31,7 @@ Your Answer: 19
 You are correct! The answer is 19
 
 Would you like to play again? (y/n):
+
 
 
 
