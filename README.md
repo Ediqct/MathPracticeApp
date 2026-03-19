@@ -49,5 +49,6 @@ Future Improvements
 
 Author
 Caleb Schneringer
+
 Aspiring Software Engineer
 
